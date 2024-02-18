@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-
+ 
 module mux_12(
     input a,
     input b, 
