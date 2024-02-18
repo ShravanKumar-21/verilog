@@ -2,7 +2,7 @@
 
 module mux_12(
     input a,
-    input b,
+    input b, 
     output reg y,
     input sel
     );
